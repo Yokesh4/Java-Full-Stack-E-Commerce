@@ -134,8 +134,8 @@ const handleLinkClick = () => {
   return (
     <nav className="navbar navbar-expand-lg fixed-top bg-white shadow-sm" ref={navbarRef}>
       <div className="container-fluid">
-        <a className="navbar-brand" href="https://telusko.com/">
-          Telusko
+        <a className="navbar-brand" href="https://maria-anthony-yokesh.netlify.app/">
+          Booster
         </a>
         <button
   className="navbar-toggler"
